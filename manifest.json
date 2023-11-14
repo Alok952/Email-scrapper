@@ -1,0 +1,16 @@
+{
+    "name": "Email Scrapper",
+    "version": "1.0.0",
+    "description": "Scraps emails from a website",
+   "manifest_version": 3,
+   "action":{
+    "default_popup": "popup.html",
+    "default_icon": "position.png"
+   },
+   "icons":{
+    "512": "position.png"
+   },
+   "permissions": [
+    "activeTab","scripting"
+   ]
+}

@@ -1,0 +1,30 @@
+body{
+    min-width: 300px;
+    
+    background-color: rgb(227, 226, 236);
+    border-radius: 10px;
+}
+.center{
+    text-align: center;
+    
+
+}
+#emailList{
+    text-align: left;
+   
+}
+#scrapeEmails{
+    border: none;
+    border-bottom: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: whitesmoke;
+    color: black;
+    cursor: pointer;
+    :hover{
+        background-color: rgb(179, 209, 107);
+    }
+}
+#scrapeEmails:hover{
+    background-color: rgb(179, 209, 107);
+}
